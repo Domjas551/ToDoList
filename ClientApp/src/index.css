@@ -1,0 +1,13 @@
+
+body {
+    padding: 10% 50%;
+    font-family:sans-serif;
+    background-color:lightblue;
+}
+
+#root{
+    display: flex;
+    justify-content:center;
+}
+
+
